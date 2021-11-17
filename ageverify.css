@@ -1,0 +1,25 @@
+.header{
+    background: slategray;
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+form{
+    margin-top: 200px;
+    margin-left: 700px;
+    border: 2px solid black;
+    width: 500px;
+    height: 200px;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+input{
+    margin: 10px;
+}
+
+button{
+    margin: 10px;
+}
